@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/hasilFragment">
+
+    <fragment
+        android:id="@+id/hasilFragment"
+        android:name="com.yusuf.andi.fragment.HasilFragment"
+        android:label="fragment_hasil"
+        tools:layout="@layout/fragment_hasil" >
+        <action
+            android:id="@+id/action_hasilFragment_to_hasil2Fragment"
+            app:destination="@id/hasil2Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hasil2Fragment"
+        android:name="com.yusuf.andi.fragment.Hasil2Fragment"
+        android:label="fragment_hasil2"
+        tools:layout="@layout/fragment_hasil2" >
+        <action
+            android:id="@+id/action_hasil2Fragment_to_hasil3Fragment"
+            app:destination="@id/hasil3Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hasil3Fragment"
+        android:name="com.yusuf.andi.fragment.Hasil3Fragment"
+        android:label="fragment_hasil3"
+        tools:layout="@layout/fragment_hasil3" />
+</navigation>

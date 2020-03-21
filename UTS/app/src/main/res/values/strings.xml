@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter">Enter</string>
+    <string name="submit">Submit</string>
+    <string name="rog">DESCRIPTION ROG</string>
+    <string name="hasil">OUTPUT</string>
+    <string name="deskrip">
+    Setelah bertahun-tahun sejak berdirinya, ASUS bertujuan untuk menempatkan penekanan yang lebih besar pada PC Gaming. Proses ini menghasilkan atas pendirian Republic of Gamers pada tahun 2006, dibentuk untuk tujuan utama, yaitu memberikan Perangkat keras yang paling hardcore dan inovatif untuk gamer benar-benar berdedikasi.
+
+    Sejak itu, upaya dari tim Republic of Gamers telah menghasilkan aliran konstan teknologi PC game yang telah menjadi legendaris di kalangan para penggemar karena performanya. Republic of Gamers lebih dari sekadar Perangkat keras, kita mengambil bagian aktif dalam komunitas game global, membantu mengembangkan industri game dengan mensponsori acara-acara seperti QuakeCon, BlizzCon dan DreamHack. Media di seluruh dunia telah mengakui Republic of Gamers sebagai pemimpin dalam game PC, dengan banyaknya dari produk kami yang telah memenangkan penghargaan dan mendapatkan umpan balik yang sangat positif dari pro hardware. [2] Dengan respon yang besar dari gamer dan industri, Republic of Gamers memiliki semua sumber daya yang dibutuhkan untuk tetap bekerja karena teknologi dizaman sekarang ini - teknologi yang tidak pernah tidur, dan tak berhenti menghasilkan karya baru.
+    </string>
+</resources>
